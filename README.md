@@ -1,0 +1,2 @@
+# BootStrapLinkedInClone
+patika.dev ödevi
